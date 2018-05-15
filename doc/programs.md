@@ -235,7 +235,7 @@
 - SRCCOM, compares/merges source files, and compares binary files.
 - SRDATE, set reference date on a file.
 - STINK, linker.
-- STINKR, new linker (binary only).
+- STINKR, new linker.
 - STTY, set terminal parameters.
 - STONE, the old African game of stones.
 - STUFF, load code into PDP-11 through 10-11 interface.
