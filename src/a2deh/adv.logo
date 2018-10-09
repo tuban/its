@@ -2,7 +2,9 @@
 ;;; adapted for PDP-10 ITS LISP LOGO
 ;;; by Alexey Slyusar
 ;;; to load code type in LLOGO prompt:
-;;; ?readfile adv logo dsk a2deh
+;;; readfile adv logo dsk a2deh
+;;; adventure
+
 ;;; ver 0.01
 
 
