@@ -1,6 +1,6 @@
 	TITLE c35-10
 	RADIX 10.
-.INSRT <C>NC
+.INSRT C;NC
 
 .CODE
 	ENTRY	Zofok1

@@ -1,6 +1,6 @@
 	TITLE c43-20
 	RADIX 10.
-.INSRT <C>NC
+.INSRT C;NC
 
 .CODE
 	ENTRY	Zmcstu
